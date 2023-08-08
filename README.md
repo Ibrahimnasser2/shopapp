@@ -1,16 +1,8 @@
-# shopapp
+![image](https://github.com/Ibrahimnasser2/shopapp/assets/85452585/b585a62a-25c8-442c-b63f-11d3170488c9)# shopapp
 
-A new Flutter project.
+A shopapp Flutter project.
 
 ## Getting Started
+1-home page
+   ![image](https://github.com/Ibrahimnasser2/shopapp/assets/85452585/266fb657-de4b-4756-be5d-38170c255081)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
